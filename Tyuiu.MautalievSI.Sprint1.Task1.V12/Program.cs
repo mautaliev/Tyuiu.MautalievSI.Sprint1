@@ -20,7 +20,7 @@ namespace Tyuiu.MautalievSI.Sprint1.Task1.V12
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #0                                                              *");
+            Console.WriteLine("* Вариант #12                                                              *");
             Console.WriteLine("* Выполнил: Мауталиев С. И. | НТм-24-1                                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
