@@ -1,4 +1,4 @@
-﻿using 
+﻿using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.MautalievSI.Sprint1.Task1.V12.Lib
 {
