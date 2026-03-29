@@ -12,4 +12,8 @@
     <TestingPlatformShowTestsFailure>true</TestingPlatformShowTestsFailure>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.MautalievSI.Sprint1.Task0.V15.Lib\Tyuiu.MautalievSI.Sprint1.Task0.V15.Lib.csproj" />
+  </ItemGroup>
+
 </Project>
