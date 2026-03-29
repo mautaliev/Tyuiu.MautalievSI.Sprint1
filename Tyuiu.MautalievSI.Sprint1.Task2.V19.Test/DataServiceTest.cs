@@ -1,6 +1,6 @@
-﻿using Tyuiu.MautaliSI.Sprint1.Task2.V19.Lib;
+﻿using Tyuiu.MautalievSI.Sprint1.Task2.V19.Lib;
 
-namespace Tyuiu.MautaliSI.Sprint1.Task2.V19.Test
+namespace Tyuiu.MautalievSI.Sprint1.Task2.V19.Test
 {
     [TestClass]
     public class DataServiceTest
